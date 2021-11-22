@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "6fe23b2b-65dd-44e8-9931-2d4df4f89bd8",
+      "name": "Police",
+      "email": "Police@gmail.com"
+    },
+    {
+      "id": "49ca46f6-d7c5-47bc-bedb-de03f7f905c8",
+      "name": "Doctor",
+      "email": "doctor@gmail.com"
+    },
+    {
+      "id": "0d582207-ce5d-412e-8895-53568a325841",
+      "name": "Rahul",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "df14a353-c822-4f10-8472-88e49d96de07",
+      "name": "Work",
+      "email": "Work@outlook.com"
+    },
+    {
+      "id": "1be5a839-7cfa-4290-8308-ecc7a1102d29",
+      "name": "Friend",
+      "email": "friend@yahoo.com"
+    },
+    {
+      "id": "2d48e800-e9a9-417a-99fe-e53b55d665dd",
+      "name": "Driver",
+      "email": "driver@gmail.com"
+    },
+    {
+      "id": "d27803cf-1d66-4397-ae18-f275ba8cdbe8",
+      "name": "RAHUL ",
+      "email": "Rahul.Jayakumar@work.com"
+    }
+  ]
+}
